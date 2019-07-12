@@ -2,7 +2,7 @@
 
 ---
 
-## To Run Locally
+## Configuration
 
 Make sure [Node.js](https://nodejs.org/) is installed.
 
@@ -49,3 +49,5 @@ For Android
 ```bash
 $ npm run android
 ```
+
+Finishhh.. Yayyy~
